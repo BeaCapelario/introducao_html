@@ -27,9 +27,4 @@ Este repositório contém os exercícios e projetos iniciais focados no aprendiz
 
 ---
 
-### 🏁 Como visualizar o projeto
-Como este é um projeto de front-end estático, você não precisa instalar dependências complexas.
 
-1. Faça o clone do repositório:
-   ```bash
-   git clone [https://github.com/BeaCapelario/introducao_html.git](https://github.com/BeaCapelario/introducao_html.git)
